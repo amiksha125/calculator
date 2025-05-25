@@ -72,3 +72,7 @@ form .display input{
     box-shadow: none;
 }
 
+.equalBtn{
+
+    width: 145px !important;
+}
