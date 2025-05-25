@@ -76,3 +76,7 @@ form .display input{
 
     width: 145px !important;
 }
+
+.calculator form input.operator {
+    color: #33ffd8 !important;
+}
